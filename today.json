@@ -1,0 +1,20 @@
+ [
+    {"id":"49ers-tonight","question":"Will the 49ers win
+    tonight?","yesProbability":62,"category":"NFL","isHot":true},
+    {"id":"bitcoin-week","question":"Will Bitcoin finish above $120,000 this
+    week?","yesProbability":48,"category":"Crypto","isHot":true},
+    {"id":"sp500-today","question":"Will the S&P 500 finish higher
+    today?","yesProbability":53,"category":"Markets","isHot":true},
+    {"id":"dodgers-tonight","question":"Will the Dodgers win
+    tonight?","yesProbability":68,"category":"MLB","isHot":false},
+    {"id":"fed-next-meeting","question":"Will the Fed cut rates at the next
+    meeting?","yesProbability":35,"category":"Economy","isHot":false},
+    {"id":"ai-flagship-week","question":"Will a major AI company announce a new
+    flagship model this
+    week?","yesProbability":41,"category":"Technology","isHot":false},
+    {"id":"movie-weekend","question":"Will the weekend's top movie earn more
+    than $50M?","yesProbability":57,"category":"Entertainment","isHot":false},
+    {"id":"soccer-featured-match","question":"Will the favorite win the featured
+    international soccer match?","yesProbability":60,"category":"World
+    Sports","isHot":false}
+  ]
